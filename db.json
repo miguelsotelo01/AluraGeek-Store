@@ -1,0 +1,175 @@
+{
+    "usuario": [
+        {
+            "nombre": "admin",
+            "email": "admin@admin.com",
+            "password": "abc123",
+            "id": "1"
+        },
+        {
+            "nombre": "miguel",
+            "email": "miguel@miguel.com",
+            "password": "123456789",
+            "id": "806d3f25-0bd3-48dd-8ef5-201159a061bf"
+        },
+        {
+            "nombre": "angel",
+            "email": "angel@angel.com",
+            "password": "40983163",
+            "id": "65e3990a-a7a0-4390-b0e3-40ff933937d4"
+        },
+        {
+            "nombre": "sotelo",
+            "email": "sotelo@sotelo.com",
+            "password": "51741111",
+            "id": "a8b7e3a6-7ecd-49c2-bdb2-0fc54d7f27cf"
+        }
+    ],
+    "productos": [
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fconsola_1.png?alt=media&token=0cdb9493-2d77-42f5-9d5a-adbd080e54df&_gl=1*ji1e74*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NDE1OS4wLjAuMA..",
+            "categoria": "consolas",
+            "nombre": "mando blanco",
+            "precio": "60.00",
+            "descripcion": "mando blanco xbox",
+            "id": "a8b7e3a6-7ecd-49c2-bdb2-0fc54d7f27csa"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fconsola_2.png?alt=media&token=978017b1-be3d-4be2-ad00-c9a939f7d860&_gl=1*1bsya8w*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NDI0My4wLjAuMA..",
+            "categoria": "consolas",
+            "nombre": "ps5",
+            "precio": "1060.00",
+            "descripcion": "ps5 completa",
+            "id": "a8b7e3a6-7ecd-49c2-bdb2-0fc54d7f27cfdasd"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fconsola_3.png?alt=media&token=b1a9b37a-129b-4d23-84ef-82c470d87ea0&_gl=1*1n7cazt*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NDI5My4wLjAuMA..",
+            "categoria": "consolas",
+            "nombre": "nintendo retro",
+            "precio": "610.00",
+            "descripcion": "nintendo viejo",
+            "id": "a8b7e3a6-7ecd-49c2-bdb2-0fc54dsadr3"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fconsola_4.png?alt=media&token=7b8076dd-4e3c-4600-b3e7-f2589f731ac4&_gl=1*1geq2ha*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NDMxOC4wLjAuMA..",
+            "categoria": "consolas",
+            "nombre": "mandos bicolor",
+            "precio": "60.00",
+
+            "descripcion": "mandos nintendo",
+            "id": "a8b7e3a6-7ecd-49c2-bdb2-0fc5ewqeq"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fconsola_5.png?alt=media&token=c754c55a-cd64-4dd0-8421-49945c665e0b&_gl=1*yuav9r*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NDM0My4wLjAuMA..",
+            "categoria": "consolas",
+            "nombre": "xbox",
+            "precio": "660.00",
+            "descripcion": "xbox",
+            "id": "a8b7e3a6-7ecd-49c2-bdb2-0fc5esadq"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fconsola_6.png?alt=media&token=24e31953-9050-4816-8f15-32c0bfb9bed0&_gl=1*3zqj3b*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NDM2NS4wLjAuMA..",
+            "categoria": "consolas",
+            "nombre": "gameboy",
+            "precio": "660.00",
+            "descripcion": "gameboy",
+            "id": "a8b7e3a6-7ecd-49c2-bdb2-0fc5sdfq"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fstarwar_1.png?alt=media&token=02f0f31f-e23a-496a-86d3-9ebd073b41b2&_gl=1*1iub0mb*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NDQ0Ny4wLjAuMA..",
+            "categoria": "starwar",
+            "nombre": "mate",
+            "precio": "60.00",
+            "descripcion": "mate blanco",
+            "id": "a8b7e3a6-7sadsadsada"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fstarwar_2.png?alt=media&token=10123e58-dab0-4bc2-8705-4b3d273816fd&_gl=1*6aqoye*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NDQ4MS4wLjAuMA..",
+            "categoria": "starwar",
+            "nombre": "cabeza mobil",
+            "precio": "105.00",
+            "descripcion": "cabeza mobil",
+            "id": "a8b7e3a6-7ecdsdad7f27cfdasd"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fstarwar_3.png?alt=media&token=f59dcec6-bf4e-438a-b7ad-01014dd87f17&_gl=1*bkdrfq*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NDUwOC4wLjAuMA..",
+            "categoria": "starwar",
+            "nombre": "yoda",
+            "precio": "610.00",
+            "descripcion": "yoda",
+            "id": "a8b7e3a6-s"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fstarwar_4.png?alt=media&token=f612412a-3064-4c7d-bfba-e78f20ac9d26&_gl=1*ph3y7w*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NDUzNS4wLjAuMA..",
+            "categoria": "starwar",
+            "nombre": "soldado",
+            "precio": "60.00",
+            "descripcion": "soldado",
+            "id": "a8b7e3a6-7ec5ewqeq"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fstarwar_5.png?alt=media&token=eefd9bf8-f17b-4f46-8c9e-351e94873a6f&_gl=1*1jwfmgf*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NDU2MC4wLjAuMA..",
+            "categoria": "starwar",
+            "nombre": "baby yoda",
+            "precio": "660.00",
+            "descripcion": "babyyoda",
+            "id": "a8b7e7cd-49c2-bdb2-0fc5esadq"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fstarwar_6.png?alt=media&token=cd0a90ca-4bee-4a48-9847-248c0af5a98f&_gl=1*1tzsnch*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NDYwMS4wLjAuMA..",
+            "categoria": "starwar",
+            "nombre": "kylo ren",
+            "precio": "660.00",
+            "descripcion": "darkvander",
+            "id": "a8b7esd7ecd-49c2-bs0fc5sdfq"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fdiversos_1.png?alt=media&token=26867a73-48fc-4577-abe8-c1f7a03c039b&_gl=1*du4iib*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NTQzMy4wLjAuMA..",
+            "categoria": "diversos",
+            "nombre": "remera atari",
+            "precio": "60.00",
+            "descripcion": "atari",
+            "id": "a8b7e3a6-7sadsafgdfgada"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fdiversos_2.png?alt=media&token=7d6f8c03-6e25-4552-9c9c-cfd75279d137&_gl=1*v2lq22*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NTQ3My4wLjAuMA..",
+            "categoria": "diversos",
+            "nombre": "remera nes",
+            "precio": "105.00",
+            "descripcion": "remera nes",
+            "id": "a8b7e3a6-7fghgjkjfkad-7f27cfdasd"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fdiversos_3.png?alt=media&token=e7b04444-7e0a-44a8-b66b-004020c14870&_gl=1*1sweyuo*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NTQ5OC4wLjAuMA..",
+            "categoria": "diversos",
+            "nombre": "sonic",
+            "precio": "610.00",
+            "descripcion": "muneco sonic",
+            "id": "a8b7efggdfgh6-s"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fdiversos_4.png?alt=media&token=b9a08c4f-6df3-4291-8132-149d86b20d00&_gl=1*y6leqd*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NTUyOC4wLjAuMA..",
+            "categoria": "diversos",
+            "nombre": "radio",
+            "precio": "60.00",
+            "descripcion": "radio",
+            "id": "a8b7e3afddgewqeq"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fdiversos_5.png?alt=media&token=83998ecf-4e5f-4519-8322-26b581865f4c&_gl=1*1ujwspp*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NTU0OS4wLjAuMA..",
+            "categoria": "diversos",
+            "nombre": "lentes de realidad virdual",
+            "precio": "660.00",
+            "descripcion": "realidad virtual",
+            "id": "a8b7e7cd-49c2-bsdasd5esadq"
+        },
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/frontend-argentina-programa.appspot.com/o/proyecto%20alura%20geek%2Fdiversos_6.png?alt=media&token=c1313680-9616-4bae-abf3-761282c14378&_gl=1*1ag0ozy*_ga*Mzg0NzMzNDE1LjE2Nzc3ODY0MDU.*_ga_CW55HF8NVT*MTY4NjM2NDEwMi45LjEuMTY4NjM2NTU4MS4wLjAuMA..",
+            "categoria": "diversos",
+            "nombre": "pikachhu",
+            "precio": "660.00",
+            "descripcion": "picaku",
+            "id": "a8b7esd7ecsdsdadbs0fc5sdfq"
+        }
+    ]
+}
